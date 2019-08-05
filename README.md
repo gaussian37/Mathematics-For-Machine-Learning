@@ -1,13 +1,9 @@
-# Mathematics-For-Machine-Learning
+# Mathematics For Machine Learning
 Coursera course of Mathematics For Machine Learning
 
 # 1. Linear Algebra
 
-<<<<<<< HEAD
-## 1.1 Assignment : Identifying special matrices
-=======
-## Week3 Assignment : [Identifying special matrices](https://nbviewer.jupyter.org/github/gaussian37/Mathematics-For-Machine-Learning/blob/master/1.%20Linear%20Algebra/1.%20Identifying%20Special%20Matrices/IdentifyingSpecialMatrices.ipynb)
->>>>>>> origin/master
+## 1.1 Assignment : [Identifying special matrices](https://github.com/gaussian37/Mathematics-For-Machine-Learning/blob/master/01.%20Linear%20Algebra/01.%20Identifying%20Special%20Matrices/IdentifyingSpecialMatrices.ipynb)
 When coding or solving data analysis problems, one problem that can occur is if your code encounters a special matrix that isn't invertible, 
 or has an infinite number of eigenvectors, or similar. 
 On other occasions, for example where you are reducing dimensionality, that might even be desirable! 
@@ -17,6 +13,6 @@ As much as anything, this is to give you a chance to give a Python coding exerci
 
 <br>
 
-## 1.2 Assignment : Gram-Schmidt process
+## 1.2 Assignment : [Gram-Schmidt process](https://github.com/gaussian37/Mathematics-For-Machine-Learning/blob/master/01.%20Linear%20Algebra/02.%20GramSchmidtProcess/GramSchmidtProcess.ipynb)
 The Gram-Schmidt process is a method for constructing an orthonormal basis of a space that a set of given vectors span. It can also be used to determine the dimension of that space, which may be different than the dimension of the vectors themselves or the number of vectors provided to span the space.
 In this assignment, you will complete a program that computes a Gram-Schmidt basis, and gives the dimension of a span of vectors.
