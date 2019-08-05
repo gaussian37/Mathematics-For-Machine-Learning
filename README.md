@@ -3,7 +3,11 @@ Coursera course of Mathematics For Machine Learning
 
 # 1. Linear Algebra
 
+<<<<<<< HEAD
 ## 1.1 Assignment : Identifying special matrices
+=======
+## Week3 Assignment : [Identifying special matrices](https://nbviewer.jupyter.org/github/gaussian37/Mathematics-For-Machine-Learning/blob/master/1.%20Linear%20Algebra/1.%20Identifying%20Special%20Matrices/IdentifyingSpecialMatrices.ipynb)
+>>>>>>> origin/master
 When coding or solving data analysis problems, one problem that can occur is if your code encounters a special matrix that isn't invertible, 
 or has an infinite number of eigenvectors, or similar. 
 On other occasions, for example where you are reducing dimensionality, that might even be desirable! 
